@@ -2,9 +2,11 @@
 Base para la prueba técnica 4 de la formación continua en Adalab.
 
 __Resumen__
+
 Vamos a hacer una pequeña página responsive con un menú "desplegable".
 
 __Requisitios__
+
 Hay que cumplir todo esto:
 * Hay que usar el HTML tal y como se entrega
 * Se entregan, además, 3 imágenes: la imagen de fondo, el icono de la hamburguesa y el icono de cerrar
