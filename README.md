@@ -15,7 +15,9 @@ Hay que cumplir todo esto:
 * El botón de menú NO sustituye al botón de cerrar
 * Se pueden añadir clases extra por JavaScript siempre que se necesiten
 * Hay que aplicar a la imagen de fondo por CSS un degradado vertical comenzando en negro al 35% en la mitad exacta del contenedor hasta negro totalmente transparente en la parte superior:
-            background-image: linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, rgba(0,0,0,0.35) 50%);
+
+            `background-image: linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, rgba(0,0,0,0.35) 50%);`
+            
 * El botón de menú mostrará el menú principal y habrá que plantear cómo se va a mostrar, es decir, no puede aparecer sin más, habrá que elegir una forma de transición concreta
 * La fuente del titular es Roboto Slab
 * La fuente del pie es Arial
