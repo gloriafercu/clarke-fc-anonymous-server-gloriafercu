@@ -1,4 +1,4 @@
-# Prueba técnica 4: anonymous-server
+# Prueba técnica 4: Anonymous-server
 Base para la prueba técnica 4 de la formación continua en Adalab.
 
 __Resumen__
